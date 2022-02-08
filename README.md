@@ -14,7 +14,7 @@ Cantril's CloudFormation EC2 template
 https://github.com/acantril/aws-sa-associate-saac02/blob/2a1b10b8540a39ce4c0ecbb5f94bce61ed1bcd63/04-AWS-Fundamentals/03_simple_automation_with_cfn/ec2instance.yaml
 ( https://s3-external-1.amazonaws.com/cf-templates-zq4bpz9q3rpu-us-east-1/2022027zb6-Cantril_ec2instance.yamlzkcln30nlk )
 
-
+https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws#h-1-launch-a-static-website-on-amazon-s3
 
 https://cloudresumechallenge.dev/docs/the-challenge/aws/
 
