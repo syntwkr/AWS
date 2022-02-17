@@ -1,5 +1,9 @@
 # AWS
 
+## Labs completed
+https://general-immersionday-tmp.workshop.aws/en/
+17.02.2022 Working on RDS lab
+
 ## General
 syntwkr+AWS1@gmail.com
 https://general-689614374516.signin.aws.amazon.com/console
