@@ -22,12 +22,5 @@ https://cloudresumechallenge.dev/docs/the-challenge/aws/
 S3 static site with https and cloudfront  
 https://tynick.com/blog/05-30-2019/how-to-create-s3-static-website-with-https-its-so-easy/  
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
-Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+\..
